@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Subject">Ten Questions About Countries</string>
+    <string name="description">Discrpion</string>
+    <string name="enter_name">please Enter yor name</string>
+    <string name="name">Name</string>
+    <string name="question1"> 1- What is the diameter of Earth? </string>
+    <string name="radio1_question1">10,000 miles.</string>
+    <string name="radio2_question1">15,000 miles.</string>
+    <string name="radio3_question1">8,000 miles.</string>
+    <string name="question2"> 2- Which four British cities have underground rail systems?</string>
+    <string name="checkBox1_question2">Liverpool</string>
+    <string name="checkBox2_question2">Birmingham</string>
+    <string name="checkBox3_question2">London</string>
+    <string name="question3"> 3- Which country is Prague in?</string>
+    <string name="radio1_question3">Brussels</string>
+    <string name="radio2_question3">Czech Republic</string>
+    <string name="radio3_question3">Athens</string>
+    <string name="question4"> 4- Which is the only American state to begin with the letter \'p\'?</string>
+    <string name="answer_question4">Answer</string>
+    <string name="question5"> 5- Name the world\'s largest ocean ?</string>
+    <string name="radio1_question5">Atlantic Ocean</string>
+    <string name="radio2_question5">Indian Ocean</string>
+    <string name="radio3_question5">Pacific Ocean</string>
+    <string name="question6"> 6- What is the capital city of Saudi Arabia ?</string>
+    <string name="answer_question6">Answer</string>
+    <string name="question7"> 7- Which cities in Spain?</string>
+    <string name="checkBox1_question7">Barcelona</string>
+    <string name="checkBox2_question7">Berlin</string>
+    <string name="checkBox3_question7">Madrid</string>
+    <string name="question8"> 8- Which of these cities in Australia</string>
+    <string name="radio1_question8">Auckland</string>
+    <string name="radio2_question8">Sydney</string>
+    <string name="radio3_question8">Dublin</string>
+    <string name="hint_answer">Answer here</string>
+    <string name="answer_hint">Answer</string>
+    <string name="submit">Submit</string>
+
+
+    ]</resources>
