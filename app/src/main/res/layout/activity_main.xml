@@ -96,13 +96,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/checkBox2_question2" />
-        <!--style="@style/AnswerText"-->
+
         <CheckBox
             android:id="@+id/checkBox3_question2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/checkBox3_question2" />
-        <!--style="@style/AnswerText"-->
+
         <TextView
             android:id="@+id/question3"
             android:layout_width="match_parent"
@@ -192,7 +192,7 @@
             android:ems="10"
             android:hint="@string/answer_hint"
             android:inputType="text" />
-        <!--style="@style/AnswerText"-->
+
         <TextView
             android:id="@+id/question7"
             android:layout_width="match_parent"
@@ -204,7 +204,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/checkBox1_question7" />
-        <!--style="@style/AnswerText"-->
+
         <CheckBox
             android:id="@+id/checkBox2_question7"
             android:layout_width="match_parent"
@@ -254,6 +254,6 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:onClick="submit"
-            android:text="Submit" />
+            android:text="@string/submit" />
     </LinearLayout>
 </ScrollView>
