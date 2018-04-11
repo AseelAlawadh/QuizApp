@@ -9,18 +9,4 @@
 
     </style>
 
-    <!--<style name="QuestionText">-->
-        <!--<item name="android:textSize">12sp</item>-->
-        <!--<item name="android:fontFamily">casual</item>-->
-        <!--<item name="android:textColor">#2b3e9c</item>-->
-        <!--<item name="android:textStyle">bold</item>-->
-    <!--</style>-->
-
-    <!--<style name="AnswerText">-->
-        <!--<item name="android:textSize">10sp</item>-->
-        <!--&lt;!&ndash;<item name="android:fontFamily">casual</item>&ndash;&gt;-->
-        <!--<item name="android:textColor">black</item>-->
-        <!--&lt;!&ndash;<item name="android:layout_marginStart">8dp</item>&ndash;&gt;-->
-
-    <!--</style>-->
 </resources>
